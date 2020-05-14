@@ -1,0 +1,1 @@
+python -m pip install (after get-pip.py with unchanged python37._pth) still leads to No module named pip in Python 3.7.2. But adding lib/site-packages to python37._pth fixes it.

@@ -1,0 +1,55 @@
+20:27:27.201 INFO - Using data dir '.\data'
+20:27:27.326 INFO - Region : local. Host : 192.168.56.1.
+20:27:28.938 INFO - Initializing gmail smtp mail transport. Username : YOUR_EMAIL_HERE. SMTP host : smtp.gmail.com:587
+20:27:29.245 INFO - Reports : 0
+20:27:29.245 INFO - Didn't find custom user certificates.
+20:27:29.247 INFO - Didn't find Let's Encrypt certificates.
+20:27:29.247 WARN - You didn't specified 'server.host' or 'contact.email' properties in server.properties file. Automatic certificate generation is turned off. Please specify above properties for automatic certificates retrieval.
+20:27:29.247 WARN - ATTENTION. Server certificate paths (cert : 'F:\Logiciels\Projets\blockly@rduino_AIO_agent_updater_CLI\Debug_Build\tools\jre8\bin', key : 'F:\Logiciels\Projets\blockly@rduino_AIO_agent_updater_CLI\Debug_Build\tools\jre8\bin') not valid. Using embedded server certs and one way ssl. This is not secure. Please replace it with your own certs.
+20:27:30.504 INFO - HTTP API and WebSockets server listening at 8080 port.
+20:27:30.505 INFO - HTTPS API, WebSockets and Admin page server listening at 9443 port.
+20:27:30.507 INFO - Mqtt hardware server listening at 8440 port.
+21:05:29.548 INFO - Using data dir '.\data'
+21:05:30.190 INFO - Region : local. Host : 192.168.56.1.
+21:05:31.946 INFO - Initializing gmail smtp mail transport. Username : YOUR_EMAIL_HERE. SMTP host : smtp.gmail.com:587
+21:05:31.975 INFO - Reports : 0
+21:05:31.976 INFO - Didn't find custom user certificates.
+21:05:31.978 INFO - Didn't find Let's Encrypt certificates.
+21:05:31.978 WARN - You didn't specified 'server.host' or 'contact.email' properties in server.properties file. Automatic certificate generation is turned off. Please specify above properties for automatic certificates retrieval.
+21:05:31.978 WARN - ATTENTION. Server certificate paths (cert : 'F:\Logiciels\Projets\blockly@rduino_AIO_agent_updater_CLI\Debug_Build\tools\jre8\bin', key : 'F:\Logiciels\Projets\blockly@rduino_AIO_agent_updater_CLI\Debug_Build\tools\jre8\bin') not valid. Using embedded server certs and one way ssl. This is not secure. Please replace it with your own certs.
+21:05:33.190 INFO - HTTP API and WebSockets server listening at 8080 port.
+21:05:33.191 INFO - HTTPS API, WebSockets and Admin page server listening at 9443 port.
+21:05:33.191 INFO - Mqtt hardware server listening at 8440 port.
+21:06:07.762 INFO - Using data dir '.\data'
+21:06:08.312 INFO - Region : local. Host : 192.168.56.1.
+21:06:09.940 INFO - Initializing gmail smtp mail transport. Username : YOUR_EMAIL_HERE. SMTP host : smtp.gmail.com:587
+21:06:09.971 INFO - Reports : 0
+21:06:09.972 INFO - Didn't find custom user certificates.
+21:06:09.973 INFO - Didn't find Let's Encrypt certificates.
+21:06:09.973 WARN - You didn't specified 'server.host' or 'contact.email' properties in server.properties file. Automatic certificate generation is turned off. Please specify above properties for automatic certificates retrieval.
+21:06:09.974 WARN - ATTENTION. Server certificate paths (cert : 'F:\Logiciels\Projets\blockly@rduino_AIO_agent_updater_CLI\Debug_Build\tools\jre8\bin', key : 'F:\Logiciels\Projets\blockly@rduino_AIO_agent_updater_CLI\Debug_Build\tools\jre8\bin') not valid. Using embedded server certs and one way ssl. This is not secure. Please replace it with your own certs.
+21:06:11.239 INFO - HTTP API and WebSockets server listening at 8080 port.
+21:06:11.240 INFO - HTTPS API, WebSockets and Admin page server listening at 9443 port.
+21:06:11.241 INFO - Mqtt hardware server listening at 8440 port.
+21:07:14.444 INFO - Using data dir '.\data'
+21:07:14.976 INFO - Region : local. Host : 192.168.56.1.
+21:07:16.530 INFO - Initializing gmail smtp mail transport. Username : YOUR_EMAIL_HERE. SMTP host : smtp.gmail.com:587
+21:07:16.560 INFO - Reports : 0
+21:07:16.561 INFO - Didn't find custom user certificates.
+21:07:16.563 INFO - Didn't find Let's Encrypt certificates.
+21:07:16.563 WARN - You didn't specified 'server.host' or 'contact.email' properties in server.properties file. Automatic certificate generation is turned off. Please specify above properties for automatic certificates retrieval.
+21:07:16.563 WARN - ATTENTION. Server certificate paths (cert : 'F:\Logiciels\Projets\blockly@rduino_AIO_agent_updater_CLI\Debug_Build\tools\jre8\bin', key : 'F:\Logiciels\Projets\blockly@rduino_AIO_agent_updater_CLI\Debug_Build\tools\jre8\bin') not valid. Using embedded server certs and one way ssl. This is not secure. Please replace it with your own certs.
+21:07:17.728 INFO - HTTP API and WebSockets server listening at 8080 port.
+21:07:17.729 INFO - HTTPS API, WebSockets and Admin page server listening at 9443 port.
+21:07:17.731 INFO - Mqtt hardware server listening at 8440 port.
+21:11:58.757 INFO - Using data dir '..\..\Blynk\data'
+21:11:59.248 INFO - Region : local. Host : 192.168.56.1.
+21:12:00.724 INFO - Initializing gmail smtp mail transport. Username : YOUR_EMAIL_HERE. SMTP host : smtp.gmail.com:587
+21:12:00.754 INFO - Reports : 0
+21:12:00.754 INFO - Didn't find custom user certificates.
+21:12:00.756 INFO - Didn't find Let's Encrypt certificates.
+21:12:00.756 WARN - You didn't specified 'server.host' or 'contact.email' properties in server.properties file. Automatic certificate generation is turned off. Please specify above properties for automatic certificates retrieval.
+21:12:00.756 WARN - ATTENTION. Server certificate paths (cert : 'F:\Logiciels\Projets\blockly@rduino_AIO_agent_updater_CLI\Debug_Build\tools\jre8\bin', key : 'F:\Logiciels\Projets\blockly@rduino_AIO_agent_updater_CLI\Debug_Build\tools\jre8\bin') not valid. Using embedded server certs and one way ssl. This is not secure. Please replace it with your own certs.
+21:12:01.909 INFO - HTTP API and WebSockets server listening at 8080 port.
+21:12:01.919 INFO - HTTPS API, WebSockets and Admin page server listening at 9443 port.
+21:12:01.920 INFO - Mqtt hardware server listening at 8440 port.

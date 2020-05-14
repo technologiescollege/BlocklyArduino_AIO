@@ -1,0 +1,492 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Traductions>
+  <Parametre Separateur="\">
+    <Proprietes>
+      <Propriete>Caption</Propriete>
+      <Propriete>Text</Propriete>
+      <Propriete>Hint</Propriete>
+      <Propriete>Items</Propriete>
+    </Proprietes>
+  </Parametre>
+  <Langues>
+    <Langue index="FR" name="FrenchLang" default="1" />
+    <Langue index="EN" name="EnglishLang" default="0" />
+    <Langue index="ES" name="SpanishLang" default="0" />
+    <Langue index="CA" name="CatalanLang" default="0" />
+  </Langues>
+  <Labels>
+    <Popup type="TComboBox">
+      <Items>
+        <FR>Le fichier 'pymata_cmd.bat' n'existe pas.\Le fichier 'flash.bat' n'existe pas.\Carte détectée\Le numéro du port COM doit être un entier.\Interface réalisée par Sébastien Canet, janvier 2019 - v4.0.2.28\Carte mal connectée ou non reconnue,\vérifiez dans le gestionnaire de périphériques,\accessible depuis le menu 'Outils'.\Plusieurs cartes détectées\Version de Windows non reconnue\Carte sur port COM\Aucune carte détectée\Mise à jour en cours\Téléchargement en cours\Décompression en cours\Nettoyage en cours\Fini !\Adresse IP\Port\Utilisateur\Mot de passe\Problème de téléchargement\</FR>
+        <EN>The file 'pymata_cmd.bat' does not exist.\The file 'flash.bat' does not exist.\Board detected\#COM port must be an integer.\Software created by Sebastien Canet, january 2019 - v4.0.2.28\No board connected,\verify in the 'Device Management',\shortcut is the 'Tools' menu.\Many boards detected\Windows version not compatible\COM port\No board detected\Update in progress\Download in progress\Unzip in progress\Cleaning...\Finished!\IP address\Port\User\Password\Download problem\</EN>
+		<ES>El fichero 'pymata_cmd.bat'no existe.\El fichero 'flash.bat' no existe.\Tarjeta detectada \El número de puerto #COM debe ser un entero.\Software creado por Sébastien Canet, enero 2019 - v4.0.2.28\Tarjeta no conectada,\compruebe en el Gestor de dispositivos,\en el menú Herramientas.\Many boards detected\Versión de Windows no compatible\Puerto COM\Ni tarjetas\Mejora en curso\Descargas en curso\Descompresión en curso\Limpieza en curso\Terminado!\Direccion IP\Puerto\Usuario\Contrasena\Descargas problem\</ES>
+        <CA>El fitxer 'pymata_cmd.bat'no existeix.\El fitxer 'flash.bat' no existeix.\Targeta detectada \El número de port #COM cal que sigui un enter.\Programari creat per Sébastien Canet, gener 2019 - v4.0.2.28\Targeta no connectada,\comproveu al Gestor de dispositius,\al menú d'eines.\Moltes targetes detectades\Versió de Windows no compatible\Targeta al port COM\Cap targeta detectada\Actualització en curs\Descàrregues en marxa\Descompresió en marxa\Neteja en marxa\Acabat!\Adreça IP\Port\Usuari\Contrasenya\Problema amb les descàrregues\</CA>
+      </Items>
+    </Popup>	
+    <Langue1 type="TMenuItem">
+      <Caption>
+        <FR>&Langues</FR>
+        <EN>&Languages</EN>
+        <ES>&Lenguajes</ES>
+        <CA>&Idiomes</CA>
+      </Caption>
+    </Langue1>
+    <FrenchLang type="TMenuItem">
+      <Caption>
+        <FR>Français</FR>
+        <EN>French</EN>
+        <ES>Françes</ES>
+        <CA>Francés </CA>
+      </Caption>
+    </FrenchLang>
+    <EnglishLang type="TMenuItem">
+      <Caption>
+        <FR>Anglais</FR>
+        <EN>English</EN>
+        <ES>Englices</ES>
+        <CA>Anglés </CA>
+      </Caption>
+    </EnglishLang>
+    <SpanishLang type="TMenuItem">
+      <Caption>
+        <FR>Espagnol</FR>
+        <EN>Spanish</EN>
+        <ES>Español  </ES>
+        <CA>Castellà  </CA>
+      </Caption>
+    </SpanishLang>
+	<CatalanLang type="TMenuItem">
+		<Caption>
+			<FR>Catalan - Valencien</FR>
+			<EN>Catalan - Valencian</EN>
+			<ES>Catalán - Valenciano  </ES>
+			<CA>Català - Valencià  </CA>
+		</Caption>
+	</CatalanLang>
+	
+    <InterfaceS2A type="TFenetrePrincipale">
+      <Caption>
+        <FR>Blockly@rduino + communication</FR>
+        <EN>Blockly@rduino control panel</EN>
+        <ES>Blockly@rduino panel de control</ES>
+        <CA>Tauler de control de Blockly@rduino</CA>
+      </Caption>
+    </InterfaceS2A>
+    <Fichier type="TMenuItem">
+      <Caption>
+        <FR>&Fichier</FR>
+        <EN>&File</EN>
+        <ES>&Archivo</ES>
+        <CA>&Fitxer</CA>
+      </Caption>
+    </Fichier>				
+			<Aide1 type="TMenuItem">
+			  <Caption>
+				<FR>&Aide</FR>
+				<EN>&Help</EN>
+				<ES>&Ayuda</ES>
+                <CA>&Ajuda</CA>
+			  </Caption>
+			</Aide1>
+					<PrparerArduino1 type="TMenuItem">
+					  <Caption>
+						<FR>&1. Dossiers/menus/pilotes</FR>
+						<EN>&1. Folders/menus/drivers</EN>
+						<ES>&1. Carpetas/menús/drivers</ES>
+                        <CA>&1. Carpetes/menús/controladors</CA>
+					  </Caption>
+					</PrparerArduino1>
+					<Utilisation1 type="TMenuItem">
+					  <Caption>
+						<FR>&2. Supervision</FR>
+						<EN>&2. Supervision</EN>
+						<ES>&2. Supervision</ES>
+                        <CA>&2. Supervisió    </CA>
+					  </Caption>
+					</Utilisation1>
+					<N4Principesdeprogrammation1 type="TMenuItem">
+					  <Caption>
+						<FR>&3. Interface et programmation</FR>
+						<EN>&3. Interface and programmation</EN>
+						<ES>&3. Interfaz y programacion</ES>
+                        <CA>&3. Interfície i programació    </CA>
+					  </Caption>
+					</N4Principesdeprogrammation1>
+					<N3Mmentodescommandes1 type="TMenuItem">
+					  <Caption>
+						<FR>&4. Mémento des commandes</FR>
+						<EN>&4. Command summary</EN>
+						<ES>&4. Aviso de ordenes</ES>
+                        <CA>&4. Resum d'ordres</CA>
+					  </Caption>
+					</N3Mmentodescommandes1>
+			<Documentation1 type="TMenuItem">
+			  <Caption>
+				<FR>&Documentation</FR>
+				<EN>&Documentation</EN>
+				<ES>&Documentacion</ES>
+                <CA>&Documentació    </CA>
+			  </Caption>
+			</Documentation1>
+	<Links type="TMenuItem">
+	  <Caption>
+		<FR>&Liens</FR>
+		<EN>&Links</EN>
+		<ES>&Enlaces</ES>
+        <CA>&Enllaços</CA>
+	  </Caption>
+	</Links>
+			<Forum1 type="TMenuItem">
+			  <Caption>
+				<FR>Forum</FR>
+				<EN>Forum</EN>
+				<ES>Foro</ES>
+                <CA>Fòrum</CA>
+			  </Caption>
+			</Forum1>
+			<Wiki1 type="TMenuItem">
+			  <Caption>
+				<FR>Wiki</FR>
+				<EN>Wiki</EN>
+				<ES>Wiki</ES>
+                <CA>Viqui</CA>
+			  </Caption>
+			</Wiki1>
+			<A_propos type="TMenuItem">
+			  <Caption>
+				<FR>Fichiers source</FR>
+				<EN>Github file</EN>
+				<ES>Ficheros fuente Github</ES>
+                <CA>Fitxers font</CA>
+			  </Caption>
+			</A_propos>
+			<SiteofficielArduino1 type="TMenuItem">
+			  <Caption>
+				<FR>Site officiel Arduino/Genuino</FR>
+				<EN>Arduino/Genuino official site</EN>
+				<ES>Sitio oficial de Arduino/Genuino</ES>
+                <CA>Lloc oficial d'Arduino/Genuino</CA>
+			  </Caption>
+			</SiteofficielArduino1>
+			<Siteofficieldes2a1 type="TMenuItem">
+			  <Caption>
+				<FR>Site officiel de PyMata-aio</FR>
+				<EN>PyMata-aio official site</EN>
+				<ES>Sitio oficial de PyMata-aio</ES>
+                <CA>Lloc oficial de PyMata-aio</CA>
+			  </Caption>
+			</Siteofficieldes2a1>
+			<Apropos1 type="TMenuItem">
+			  <Caption>
+				<FR>A propos</FR>
+				<EN>About</EN>
+				<ES>Acerca de</ES>
+                <CA>Quant a</CA>
+			  </Caption>
+			</Apropos1>		
+	<Outils1 type="TMenuItem">
+      <Caption>
+        <FR>&Outils</FR>
+        <EN>T&ools</EN>
+        <ES>H&erramientas</ES>
+        <CA>E&ines</CA>
+      </Caption>
+    </Outils1>
+			<Gestionnairedepriphriques1 type="TMenuItem">
+			  <Caption>
+				<FR>Gestio&nnaire de périphériques</FR>
+				<EN>Device ma&nagement</EN>
+				<ES>Gestion de p&eriféricos</ES>
+                <CA>Gestió de p&erifèrics</CA>
+			  </Caption>
+			</Gestionnairedepriphriques1>
+			<InstallDriver type="TMenuItem">
+			  <Caption>
+				<FR>&Installer les pilotes</FR>
+				<EN>&Install drivers</EN>
+				<ES>&Instalar drivers</ES>
+                <CA>&Instal·la controladors</CA>
+			  </Caption>
+			</InstallDriver>
+					<w32 type="TMenuItem">
+					  <Caption>
+						<FR>&Windows 32bits x86</FR>
+						<EN>&Windows 32bits x86</EN>
+						<ES>&Windows 32bits x86</ES>
+                        <CA>&Windows 32bits x86</CA>
+					  </Caption>
+					</w32>
+					<w64 type="TMenuItem">
+					  <Caption>
+						<FR>&Windows 64bits x64</FR>
+						<EN>&Windows 64bits x64</EN>
+						<ES>&Windows 64bits x64</ES>
+                        <CA>&Windows 64bits x64</CA>
+					  </Caption>
+					</w64>
+					<Drivers type="TMenuItem">
+					  <Caption>
+						<FR>Ouvrir le dossier 'pilotes'</FR>
+						<EN>Open 'drivers' folder</EN>
+						<ES>Abrir carpeta de 'drivers'</ES>
+                        <CA>Obre la carpeta de «controladors»</CA>
+					  </Caption>
+					</Drivers>	
+			<Localiserledossierdocumentation1 type="TMenuItem">
+			  <Caption>
+				<FR>Localiser la documentation</FR>
+				<EN>Locate documentation</EN>
+				<ES>Localizar documentacion</ES>
+                <CA>Localitzar documentació    </CA>
+			  </Caption>
+			</Localiserledossierdocumentation1>			
+			<Redtecter type="TMenuItem">
+			  <Caption>
+				<FR>Auto-détection de carte</FR>
+				<EN>Auto-detect Arduino card</EN>
+				<ES>Auto-detect Arduino card</ES>
+                <CA>Autodetecció de targetes Arduino</CA>
+			  </Caption>
+			</Redtecter>
+			<BT_upload type="TMenuItem">
+			  <Caption>
+				<FR>Téléversement</FR>
+				<EN>Uploader</EN>
+				<ES>Cargas</ES>
+                <CA>Carregador</CA>
+			  </Caption>
+			</BT_upload>
+			<upload_on type="TMenuItem">
+			  <Caption>
+				<FR>Stopper le serveur</FR>
+				<EN>Stop upload server</EN>
+				<ES>Detener el cargas</ES>
+                <CA>Aturar el servidor de carregues</CA>
+			  </Caption>
+			</upload_on>	
+			<s2aio_window type="TMenuItem">
+			  <Caption>
+				<FR>Voir la fenêtre de scripts</FR>
+				<EN>Open script dialog box</EN>
+				<ES>Open script dialog box</ES>
+                <CA>Obre la finestra de scripts</CA>
+			  </Caption>
+			</s2aio_window>		
+			<updateMenu type="TMenuItem">
+			  <Caption>
+				<FR>Nouvelle version</FR>
+				<EN>Update</EN>
+				<ES>Actualizar</ES>
+                <CA>Nova versió    </CA>
+			  </Caption>
+			</updateMenu>		
+				<forceUpdate type="TMenuItem">
+				  <Caption>
+					<FR>Mettre à jour</FR>
+					<EN>Update Blockly@rduino</EN>
+					<ES>Actualizar</ES>
+                    <CA>Actualitza</CA>
+				  </Caption>
+				</forceUpdate>		
+				<proxyUpdate type="TMenuItem">
+				  <Caption>
+					<FR>Proxy</FR>
+					<EN>Proxy</EN>
+					<ES>Proxy</ES>
+                    <CA>Servidor intermediari</CA>
+				  </Caption>
+				</proxyUpdate>		
+			<Redmarrerlenavigateur1 type="TMenuItem">
+			  <Caption>
+				<FR>Redémarrer le navigateur</FR>
+				<EN>Relaunch browser</EN>
+				<ES>Reiniciar el navegadores</ES>
+                <CA>Reinicia el navegador</CA>
+			  </Caption>
+			</Redmarrerlenavigateur1>			
+			<Init type="TMenuItem">
+			  <Caption>
+				<FR>(Ré)initialiser les paramètres</FR>
+				<EN>Initialise parameters</EN>
+				<ES>Inicializar los parametros</ES>
+                <CA>Inicialitza els paràmetres</CA>
+			  </Caption>
+			</Init>
+	<MiseAjour type="TMenuItem">
+	  <Caption>
+		<FR>Mises à jour</FR>
+		<EN>Update</EN>
+		<ES>Actualizar</ES>
+        <CA>Actualitzacions</CA>
+	  </Caption>
+	</MiseAjour>
+		<updateLib type="TMenuItem">
+		  <Caption>
+			<FR>des bibliothèques</FR>
+			<EN>libraries</EN>
+			<ES>librerías</ES>
+            <CA>biblioteques</CA>
+		  </Caption>
+		</updateLib>
+		<updateCli type="TMenuItem">
+		  <Caption>
+			<FR>du compilateur</FR>
+			<EN>compiler</EN>
+			<ES>compilador</ES>
+            <CA>compilador</CA>
+		  </Caption>
+		</updateCli>
+		<updateIndex type="TMenuItem">
+		  <Caption>
+			<FR>des index</FR>
+			<EN>index</EN>
+			<ES>índice</ES>
+            <CA>índex</CA>
+		  </Caption>
+		</updateIndex>
+		<updateSoft type="TMenuItem">
+		  <Caption>
+			<FR>des logiciels</FR>
+			<EN>software</EN>
+			<ES>software</ES>
+            <CA>programari</CA>
+		  </Caption>
+		</updateSoft>
+	<IoT type="TMenuItem">
+	  <Caption>
+		<FR>Internet des Objets</FR>
+		<EN>IoT</EN>
+		<ES>IoT</ES>
+        <CA>IoT</CA>
+	  </Caption>
+	</IoT>
+		<Blynk_on type="TMenuItem">
+		  <Caption>
+			<FR>arrêter le serveur</FR>
+			<EN>stop Blynk server</EN>
+			<ES>stop Blynk server</ES>
+            <CA>atura servidor Blynk</CA>
+		  </Caption>
+		</Blynk_on>
+		<Blynk_off type="TMenuItem">
+		  <Caption>
+			<FR>activer le serveur</FR>
+			<EN>run Blynk server</EN>
+			<ES>run Blynk server</ES>
+            <CA>executa servidor Blynk</CA>
+		  </Caption>
+		</Blynk_off>
+		<AdminIoT type="TMenuItem">
+		  <Caption>
+			<FR>administration du serveur</FR>
+			<EN>Blynk server admin</EN>
+			<ES>Blynk server admin</ES>
+            <CA>admin del server Blynk</CA>
+		  </Caption>
+		</AdminIoT>
+		<ExampleIoT type="TMenuItem">
+		  <Caption>
+			<FR>exemples</FR>
+			<EN>examples</EN>
+			<ES>examples</ES>
+            <CA>exemples</CA>
+		  </Caption>
+		</ExampleIoT>
+    <MenuConnect type="TMenuItem">
+      <Caption>
+        <FR>Port COM :</FR>
+        <EN>COM port #:</EN>
+        <ES>Puerto COM:</ES>
+        <CA>Port COM:</CA>
+      </Caption>
+    </MenuConnect>
+    <MenuUnconnect type="TMenuItem">
+      <Caption>
+        <FR>Port COM :</FR>
+        <EN>COM port #:</EN>
+        <ES>Puerto COM:</ES>
+        <CA>Port COM:</CA>
+      </Caption>
+    </MenuUnconnect>
+    <BT_supervision type="TMenuItem">
+      <Caption>
+        <FR>&Supervision des E/S</FR>
+        <EN>I/O &Supervision</EN>
+        <ES>E/S &supervisar</ES>
+        <CA>&Supervisió de E/S</CA>
+      </Caption>
+    </BT_supervision>
+    <supervision_on type="TMenuItem">
+      <Caption>
+        <FR>&Stopper la communication</FR>
+        <EN>&Stop communication</EN>
+        <ES>Detener la comunicacion</ES>
+        <CA>Atura la comunicació    </CA>
+      </Caption>
+    </supervision_on>			
+	<Firmata type="TMenuItem">
+	  <Caption>
+		<FR>Téléverser le microprogramme de communication</FR>
+		<EN>Upload 'FirmataPlus' in card</EN>
+		<ES>Descargar 'Firmata' en </ES>
+        <CA>Descarrega 'Firmata' a </CA>
+	  </Caption>
+	</Firmata>	
+			<Firmata_Uno type="TMenuItem">
+			  <Caption>
+				<FR>Arduino/Genuino Uno</FR>
+				<EN>Arduino/Genuino Uno</EN>
+				<ES>Arduino/Genuino Uno</ES>
+				<CA>Arduino/Genuino Uno</CA>
+			  </Caption>
+			</Firmata_Uno>
+			<Firmata_Micro type="TMenuItem">
+			  <Caption>
+				<FR>Arduino/Genuino Micro</FR>
+				<EN>Arduino/Genuino Micro</EN>
+				<ES>Arduino/Genuino Micro</ES>
+				<CA>Arduino/Genuino Micro</CA>
+			  </Caption>
+			</Firmata_Micro>
+			<Firmata_Nano type="TMenuItem">
+			  <Caption>
+				<FR>Arduino/Genuino Nano (328P)</FR>
+				<EN>Arduino/Genuino Nano (328P)</EN>
+				<ES>Arduino/Genuino Nano (328P)</ES>
+				<CA>Arduino/Genuino Nano (328P)</CA>
+			  </Caption>
+			</Firmata_Nano>	
+			<Firmata_Leonardo type="TMenuItem">
+			  <Caption>
+				<FR>Arduino/Genuino Leonardo</FR>
+				<EN>Arduino/Genuino Leonardo</EN>
+				<ES>Arduino/Genuino Leonardo</ES>
+				<CA>Arduino/Genuino Leonardo</CA>
+			  </Caption>
+			</Firmata_Leonardo>
+			<Firmata_Mega type="TMenuItem">
+			  <Caption>
+				<FR>Arduino/Genuino Mega (2560)</FR>
+				<EN>Arduino/Genuino Mega (2560)</EN>
+				<ES>Arduino/Genuino Mega (2560)</ES>
+				<CA>Arduino/Genuino Mega (2560)</CA>
+			  </Caption>
+			</Firmata_Mega>
+			<DuemilanoveDiecimila328P1 type="TMenuItem">
+			  <Caption>
+				<FR>Arduino/Genuino Duemilanove | Diecimila (328P)</FR>
+				<EN>Arduino/Genuino Duemilanove | Diecimila (328P)</EN>
+				<ES>Arduino/Genuino Duemilanove | Diecimila (328P)</ES>
+				<CA>Arduino/Genuino Duemilanove | Diecimila (328P)</CA>
+			  </Caption>
+			</DuemilanoveDiecimila328P1>
+			<Firmata_RoMeo type="TMenuItem">
+			  <Caption>
+				<FR>DFRobot RoMeo v2</FR>
+				<EN>DFRobot RoMeo v2</EN>
+				<ES>DFRobot RoMeo v2</ES>
+				<CA>DFRobot RoMeo v2</CA>
+			  </Caption>
+			</Firmata_RoMeo>	
+  </Labels>
+</Traductions>
