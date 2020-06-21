@@ -6,3 +6,6 @@ sync.ffs_db
 .owncloudsync.log
 .owncloudsync.log
 .sync_989c7e3c034f.db
+*.log
+.sync_989c7e3c034f.db
+*.ffs_db
