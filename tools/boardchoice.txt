@@ -1,1 +1,1 @@
-arduino:avr:yun
+arduino:avr:uno
