@@ -12,3 +12,4 @@ sync.ffs_db
 BlocklyArduino_AIO.zip
 *.ffs_db
 sync.ffs_db
+*.log
