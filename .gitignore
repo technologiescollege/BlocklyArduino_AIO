@@ -13,3 +13,5 @@ BlocklyArduino_AIO.zip
 *.ffs_db
 sync.ffs_db
 *.log
+*.db
+*.log
