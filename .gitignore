@@ -21,3 +21,4 @@ sync.ffs_db
 *.log
 *.ffs_db
 .owncloudsync.log
+.owncloudsync.log
