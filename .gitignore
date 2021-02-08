@@ -25,3 +25,6 @@ sync.ffs_db
 *.log
 *.ffs_db
 *.ffs_db
+*.log
+*.db
+*.ffs_db
